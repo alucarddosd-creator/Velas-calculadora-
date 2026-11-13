@@ -1,0 +1,6 @@
+{
+  "name": "Costos Velas y Aromas",
+  "description": "Calculadora de costos de producción, IVA Chile y reporte de márgenes de ganancia para velas de soya, sprays aromatizantes y difusores de varillas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
